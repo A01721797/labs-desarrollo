@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "frontend-a11y": {
+      "source": "affaan-m/ECC",
+      "sourceType": "github",
+      "skillPath": "skills/frontend-a11y/SKILL.md",
+      "computedHash": "822c925563e37abb79298c3146577c3dc4565612196f84f6e5f8dc3531e31837"
+    }
+  }
+}
